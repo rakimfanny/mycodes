@@ -1,0 +1,7 @@
+# mycodes
+# welcome to the project on "lead score" project 
+this project is about guiding a CEO to increase the number of people that get converted to his educational company.
+but how? we make a model and then predict from which feature he should be more expecting people to jpoin him 
+logistic regression will be our model in this case 
+followed by metrics for evaluation and ROC 
+of course without forgetting data cleaning and data preparing 
